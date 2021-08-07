@@ -36,7 +36,8 @@ import (
 
 //import l4g "log4go.googlecode.com/hg"
 //import l4g "code.google.com/p/log4go"
-import "code.google.com/p/log4go"
+//import "code.google.com/p/log4go"
+import "github.com/alecthomas/log4go"
 
 /***************************************************************************************************
     Global Variables
