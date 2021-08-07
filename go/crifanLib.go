@@ -205,3 +205,9 @@ func DbgPrintCookies(httpCookies []*http.Cookie) {
         }
     }
 }
+
+
+
+func Hello() {
+	fmt.Println("crifanLib Hello...")
+}
